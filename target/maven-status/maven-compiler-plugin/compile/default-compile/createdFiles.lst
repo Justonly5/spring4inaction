@@ -1,11 +1,11 @@
 com\spring\chapter_02\MediaPlayer.class
-com\spring\chapter_04\Audience.class
-com\spring\chapter_02\impl\SgtPeppers.class
 com\spring\chapter_02\config\CDPlayerConfig.class
 com\spring\chapter_04\TrackCounter.class
-com\spring\chapter_05\controller\HomeController.class
 com\spring\chapter_02\CompactDisc.class
 com\spring\chapter_02\impl\CDPlayer.class
+com\spring\chapter_04\Audience.class
+com\spring\chapter_02\impl\SgtPeppers.class
+com\spring\chapter_05\controller\HomeController.class
 com\spring\chapter_05\config\RootConfig.class
 com\spring\chapter_05\config\SpittrWebAppInitializer.class
 com\spring\chapter_04\AOPConfig.class
