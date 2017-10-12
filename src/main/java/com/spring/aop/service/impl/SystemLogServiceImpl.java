@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 
 import com.spring.aop.dao.SystemLogMapper;
 import com.spring.aop.entity.SystemLog;
+import com.spring.aop.service.SystemLogService;
 
 @Service
 public class SystemLogServiceImpl implements SystemLogService {
